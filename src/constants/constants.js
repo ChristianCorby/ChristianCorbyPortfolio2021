@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Medicine Cabinet',
-    description: "Using React and Node.js. My team and I created a web application that would reccomend starins of medical marijuana based on the symptoms, preferences, or desired effects of the patient. (The deployment of med cabinet was made unavailable to me after completing the Lambda School course!)",
+    description: "Using React and Node.js. My team and I created a web application that would reccomend strains of medical marijuana based on the symptoms, preferences, or desired effects of the patient. (The deployment of med cabinet was made unavailable to me after completing the Lambda School course!)",
       image: '/images/medcabinet.png',
       tags: ['React', 'Node'],
     source: 'https://github.com/bw-med-cabinet',
