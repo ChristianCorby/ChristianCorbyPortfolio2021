@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        My name is Christian Corby, I am a Full Stack Web Developer based in Vero Bech, Florida. My interests include sports, videogames and all things tech. I'm ready to become the next cog in the corporate machine!
+        My name is Christian Corby, I am a Full Stack Web Developer based in Vero Beach, Florida. My interests include sports, videogames and all things tech. I'm ready to become the next cog in the corporate machine!
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
