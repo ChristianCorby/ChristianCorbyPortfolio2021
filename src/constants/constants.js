@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Medicine Cabinet',
-    description: "Using React and Node.js. My team and I created a web application that would reccomend strains of medical marijuana based on the symptoms, preferences, or desired effects of the patient. (The deployment of med cabinet was made unavailable to me after completing the Lambda School course!)",
+    description: "Using React and Node.js. My team and I created a web application that would recommend strains of medical marijuana based on the symptoms, preferences, or desired effects of the patient. (The deployment of med cabinet was made unavailable to me after completing the Lambda School course!)",
       image: '/images/medcabinet.png',
       tags: ['React', 'Node'],
     source: 'https://github.com/bw-med-cabinet',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Suggestify',
-    description:"Once again using React and Node.js. I worked with a team of developers to create a spotify song suggestion machine. The app takes your input and attempts to reccomend other songs you will enjoy.",
+    description:"Once again using React and Node.js. I worked with a team of developers to create a spotify song suggestion machine. The app takes your input and attempts to recommend other songs you will enjoy.",
     image: '/images/suggestify.png',
     tags: ['React', 'Node'],
     source: 'https://suggestify.netlify.app/',
