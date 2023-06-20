@@ -12,7 +12,7 @@ const Projects = () => (
       Projects
     </SectionTitle>
     <SectionText>
-      Suggestify and Medicine Cabinet are the two projects that I feel best display my ability as a web developer.
+      Suggestify and Medicine Cabinet are the two projects that I feel best display my ability as a web developer, unfortunately the Medicine Cabinet project has been taken down.
     </SectionText>
     <GridContainer>
       {projects.map(({ id, image, title, description, tags, source, visit}) => (
