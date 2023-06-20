@@ -25,4 +25,7 @@ export const TimeLineData = [
   { year: 2019, text: 'Dropped out of college and enrolled in Lambda School', },
   { year: 2020, text: 'Completed the Full Stack Web Development course @ Lambda School', },
   { year: 2021, text: 'Began my job search', },
+  { year: 2021, text: 'Worked at Moore Solutions developing software to help teach the Microsoft office suite and Adobe creative cloud', },
+  { year: 2022, text: 'Took a position with the ELC as Digital Content / Data Manager as well as providing tech support and website maintainance', },
+  { year: 2023, text: 'Began working at the School District of Indian River County as a Programmer Analyst, focusing on SQL and student information while also serving as the Webmaster and FullStack Developer when needed', },
 ];
